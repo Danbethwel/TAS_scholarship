@@ -16,7 +16,7 @@ Needed Requirements are:
 [月亮]Communication Engineering 
 [月亮]Artificial Intelligence
 [月亮]Robotics Engineering 
-[月亮]Traffic Equipment & Control Engineering
+[月亮]Traffic Equipment Engineering
 [月亮]Automation 
 [月亮]Mechanical Engineering
 [月亮]Intelligent Manufacturing Engineering
